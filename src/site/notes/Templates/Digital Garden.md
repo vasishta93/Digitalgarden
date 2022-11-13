@@ -2,4 +2,5 @@
 {"dg-publish":true,"permalink":"/templates/digital-garden/"}
 ---
 
-Started: {{date}} {{time}}
+# {{Title}}
+Created: {{date}} {{time}}
