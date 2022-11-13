@@ -9,7 +9,7 @@ A garden is a collection of evolving ideas that aren't strictly organised by the
 
 ## Whats it not?
 
-**Its Not my Blog - Thats on https://metaverse.vasishtachary.com/ 
+**Its Not my Blog - Thats on [My Metaverse](https://metaverse.vasishtachary.com/) 
 Its not my Personal Notebook** 
 
 This is a space for my thoughts, learnings, education and more, just dumped in the most true and raw format. Here is where you might find my half complete notes from my digital classes, half complete notes from books, my BIP content around productivity, community and more. Its not protected by any password, paywall or even login. Its for everyone to see, use when needed and learn. 
