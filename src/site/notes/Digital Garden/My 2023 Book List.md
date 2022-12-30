@@ -9,6 +9,7 @@ I have a passion for reading and it plays a significant role in both my learning
 
 Below is the ongoing list of books for 2023, i have added some and will continue to add all the books i am reading/will be reading here along with notes on some books. 
 
+If you prefer Notion, you can check it out here [Notion Library](https://kawibaba.notion.site/c527074b7fe844dc844432817a84ffd0?v=148bd0032ed2471dbb67bb3cac445517)
 
 ## Non Fiction (New Reads)
 
