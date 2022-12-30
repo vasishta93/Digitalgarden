@@ -3,12 +3,14 @@
 ---
 
 
+# My 2023 Book List
+
 I have a passion for reading and it plays a significant role in both my learning and leisure activities. In 2022, I exceeded my goal of reading over 20 books (including both new and old titles) and this year, I aim to read 50 books. My reading list is diverse and includes fiction, non-fiction, self-help, and poetry. I also enjoy rereading books that I've read in the past. 
 
 Below is the ongoing list of books for 2023, i have added some and will continue to add all the books i am reading/will be reading here along with notes on some books. 
 
 
-# Non Fiction (New Reads)
+## Non Fiction (New Reads)
 
 1. Measure What Matters by John Doerr
 2. Building a Second Brain by Tiago Forte
@@ -19,12 +21,12 @@ Below is the ongoing list of books for 2023, i have added some and will continue
 7. Storyworthy: Engage, Teach, Persuade, and Change Your Life Through the Power of Storytelling by Matthew Dicks 
 
 
-# Non Fiction (Re Reads)
+## Non Fiction (Re Reads)
 1. Actionable Gamification by Yu-Kai Chou 
 2. The Discovery of India by Jawaharlal Nehru
 
 
-# Fiction (New Reads)
+## Fiction (New Reads)
 1. Ponniyin Selvan Book 2: Whirlwinds by Kalki (Translated by Pavitra Srinivasan)
 2. Ponniyin Selvan Book 3: Sword of Slaughter by Kalki (Translated by Pavitra Srinivasan)
 3. Ponniyin Selvan Book 4: The Jewelled Crown by Kalki (Translated by Pavitra Srinivasan)
@@ -34,7 +36,7 @@ Below is the ongoing list of books for 2023, i have added some and will continue
 7. The Name of the Wind by Patrick Rothfuss
 8. Patanjali Yoga Shastra by Swami Vivekanada 
 
-# Fiction (Re Reads)
+## Fiction (Re Reads)
 1. Eragon by Christopher Paolini
 2. Eldest by Christopher Paolini
 3. Brisingr by Christopher Paolini
