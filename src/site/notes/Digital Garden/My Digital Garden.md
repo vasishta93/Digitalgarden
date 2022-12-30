@@ -17,3 +17,4 @@ This is a space for my thoughts, learnings, education and more, just dumped in t
 
 ### Index
 
+[[Digital Garden/2023 Book List\|2023 Book List]]
