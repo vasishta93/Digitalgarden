@@ -17,5 +17,3 @@ This is a space for my thoughts, learnings, education and more, just dumped in t
 
 ### Index
 
-[[Digital Garden/The Success Cohort/The Success Cohort\|The Success Cohort]]
-
